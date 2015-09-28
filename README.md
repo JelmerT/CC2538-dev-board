@@ -1,27 +1,22 @@
-CC2538 development board
+CC2538 Development Board
 ========================
 
+This is the hardware design of a development board for the [CC2538 chip of Texas Instruments](http://www.ti.com/product/cc2538).
+
+![http://jelmertiete.com/images/2014-05-07-cc2538-development-board-2.jpg](http://jelmertiete.com/images/2014-05-07-cc2538-development-board-2.jpg)
+
+You can find more info about the design and hardware decisions [in this blog post](http://jelmertiete.com/2014/05/07/cc2538-development-board/)
+
+The pcb antenna used in this design has its own repository: https://github.com/JelmerT/Eagle-2.4gHz-folded-dipole-pcb-antenna
+
+I also wrote a handy serial bootloader for this dev-board and other CC2538 (and CC26XX and 31XX) hardware, which you can find here: https://github.com/JelmerT/cc2538-bsl
+
+If you improve this design in any way, consider submitting a pull request or contact me. I'd appreciate it if you let me know if you use this design in a real deployment. I'd like to add your project to this page.
 
 License
 -------
+**This hardware project is released under the [Creative Commons Share-alike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license.**
 
-**This hardware project is released under [Creative Commons Share-alike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).**
+![CC-by-sa](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
-Note: This is a human-readable summary of (and not a substitute for) the [license](http://creativecommons.org/licenses/by-sa/4.0/legalcode).
-
-You are free to:
-
-Share — copy and redistribute the material in any medium or format
-Adapt — remix, transform, and build upon the material
-for any purpose, even commercially.
-The licensor cannot revoke these freedoms as long as you follow the license terms.
-Under the following terms:
-
-Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-Notices:
-
-You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
-No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
-
+(C) Jelmer Tiete - <jelmer@tiete.be>  [![Analytics](https://ga-beacon.appspot.com/UA-3496907-10/JelmerT/cc2538-dev-board?pixel)](https://github.com/igrigorik/ga-beacon)
