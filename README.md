@@ -9,7 +9,7 @@ You can find more info about the design and hardware decisions [in this blog pos
 
 The pcb antenna used in this design has its own repository: https://github.com/JelmerT/Eagle-2.4gHz-folded-dipole-pcb-antenna
 
-I also wrote a handy serial bootloader for this dev-board and other CC2538 (and CC26XX and 31XX) hardware, which you can find here: https://github.com/JelmerT/cc2538-bsl
+I also wrote a handy serial bootloader for this dev-board and other CC2538 (and CC26XX and 13XX) hardware, which you can find here: https://github.com/JelmerT/cc2538-bsl
 
 If you improve this design in any way, consider submitting a pull request or contact me. I'd appreciate it if you let me know if you use this design in a real deployment. I'd like to add your project to this page.
 
